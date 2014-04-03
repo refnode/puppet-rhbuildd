@@ -1,0 +1,13 @@
+{
+  "name": "refnode-rhbuildd",
+  "version": "0.0.1",
+  "summary": "Puppet Module for managing the Koji RPM Build System",
+  "author": "refnode",
+  "description": "Puppet Module for managing the Koji RPM Build System",
+  "dependencies": [],
+  "types": [],
+  "checksums": {},
+  "source": "git://github.com/refnode/puppet-rhbuildd.git",
+  "project_page": "https://github.com/refnode/puppet-rhbuildd",
+  "license": "Apache"
+}
